@@ -1,0 +1,191 @@
+{
+  "asset": {
+    "generator": "Microsoft GLTF Exporter 2.8.3.2",
+    "version": "2.0"
+  },
+  "accessors": [
+    {
+      "bufferView": 0,
+      "componentType": 5123,
+      "count": 29916,
+      "type": "SCALAR"
+    },
+    {
+      "bufferView": 1,
+      "componentType": 5126,
+      "count": 7108,
+      "type": "VEC3",
+      "max": [
+        1.8579150438308716,
+        2.392580509185791,
+        2.298450231552124
+      ],
+      "min": [
+        -1.8579150438308716,
+        0.002613264601677656,
+        -2.380261182785034
+      ]
+    },
+    {
+      "bufferView": 2,
+      "componentType": 5126,
+      "count": 7108,
+      "type": "VEC3"
+    },
+    {
+      "bufferView": 3,
+      "componentType": 5126,
+      "count": 7108,
+      "type": "VEC4"
+    },
+    {
+      "bufferView": 4,
+      "componentType": 5126,
+      "count": 7108,
+      "type": "VEC2"
+    }
+  ],
+  "bufferViews": [
+    {
+      "buffer": 0,
+      "byteOffset": 0,
+      "byteLength": 59832,
+      "target": 34963
+    },
+    {
+      "buffer": 0,
+      "byteOffset": 59832,
+      "byteLength": 85296,
+      "target": 34962
+    },
+    {
+      "buffer": 0,
+      "byteOffset": 145128,
+      "byteLength": 85296,
+      "target": 34962
+    },
+    {
+      "buffer": 0,
+      "byteOffset": 230424,
+      "byteLength": 113728,
+      "target": 34962
+    },
+    {
+      "buffer": 0,
+      "byteOffset": 344152,
+      "byteLength": 56864,
+      "target": 34962
+    }
+  ],
+  "buffers": [
+    {
+      "uri": "b1_data.bin",
+      "byteLength": 401016
+    }
+  ],
+  "images": [
+    {
+      "uri": "b1_img0.png"
+    },
+    {
+      "uri": "b1_img1.png"
+    },
+    {
+      "uri": "b1_img2.png"
+    }
+  ],
+  "materials": [
+    {
+      "pbrMetallicRoughness": {},
+      "normalTexture": {
+        "index": 2
+      },
+      "doubleSided": true,
+      "extensions": {
+        "KHR_materials_pbrSpecularGlossiness": {
+          "diffuseTexture": {
+            "index": 0
+          },
+          "specularGlossinessTexture": {
+            "index": 1
+          }
+        }
+      }
+    }
+  ],
+  "meshes": [
+    {
+      "primitives": [
+        {
+          "attributes": {
+            "TANGENT": 3,
+            "NORMAL": 2,
+            "POSITION": 1,
+            "TEXCOORD_0": 4
+          },
+          "indices": 0,
+          "material": 0
+        }
+      ]
+    }
+  ],
+  "nodes": [
+    {
+      "children": [
+        1
+      ],
+      "scale": [
+        0.009999999776482582,
+        0.009999999776482582,
+        0.009999999776482582
+      ],
+      "name": "RootNode.0"
+    },
+    {
+      "mesh": 0,
+      "name": "B_1.1"
+    }
+  ],
+  "samplers": [
+    {
+      "magFilter": 9729,
+      "minFilter": 9985
+    },
+    {
+      "magFilter": 9729,
+      "minFilter": 9985
+    },
+    {
+      "magFilter": 9729,
+      "minFilter": 9985
+    }
+  ],
+  "scenes": [
+    {
+      "nodes": [
+        0
+      ]
+    }
+  ],
+  "textures": [
+    {
+      "sampler": 0,
+      "source": 0
+    },
+    {
+      "sampler": 1,
+      "source": 1
+    },
+    {
+      "sampler": 2,
+      "source": 2
+    }
+  ],
+  "scene": 0,
+  "extensionsUsed": [
+    "KHR_materials_pbrSpecularGlossiness"
+  ],
+  "extensionsRequired": [
+    "KHR_materials_pbrSpecularGlossiness"
+  ]
+}

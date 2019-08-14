@@ -1,7 +1,7 @@
 import React from 'react';
 import '@google/model-viewer';
 import './App.css';
-import * as seahorse from './assets/seahorse.gltf';
+import * as seahorse from './assets/b1.gltf';
 
 function App() {
   console.log(seahorse);

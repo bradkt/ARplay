@@ -15,16 +15,8 @@
       "componentType": 5126,
       "count": 7108,
       "type": "VEC3",
-      "max": [
-        1.8579150438308716,
-        2.392580509185791,
-        2.298450231552124
-      ],
-      "min": [
-        -1.8579150438308716,
-        0.002613264601677656,
-        -2.380261182785034
-      ]
+      "max": [1.8579150438308716, 2.392580509185791, 2.298450231552124],
+      "min": [-1.8579150438308716, 0.002613264601677656, -2.380261182785034]
     },
     {
       "bufferView": 2,
@@ -85,13 +77,13 @@
   ],
   "images": [
     {
-      "uri": "b1_img0.png"
+      "uri": "./b1_img0.png"
     },
     {
-      "uri": "b1_img1.png"
+      "uri": "./b1_img1.png"
     },
     {
-      "uri": "b1_img2.png"
+      "uri": "./b1_img2.png"
     }
   ],
   "materials": [
@@ -131,9 +123,7 @@
   ],
   "nodes": [
     {
-      "children": [
-        1
-      ],
+      "children": [1],
       "scale": [
         0.009999999776482582,
         0.009999999776482582,
@@ -162,9 +152,7 @@
   ],
   "scenes": [
     {
-      "nodes": [
-        0
-      ]
+      "nodes": [0]
     }
   ],
   "textures": [
@@ -182,10 +170,6 @@
     }
   ],
   "scene": 0,
-  "extensionsUsed": [
-    "KHR_materials_pbrSpecularGlossiness"
-  ],
-  "extensionsRequired": [
-    "KHR_materials_pbrSpecularGlossiness"
-  ]
+  "extensionsUsed": ["KHR_materials_pbrSpecularGlossiness"],
+  "extensionsRequired": ["KHR_materials_pbrSpecularGlossiness"]
 }

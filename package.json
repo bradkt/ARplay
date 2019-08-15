@@ -6,7 +6,9 @@
     "@google/model-viewer": "^0.5.1",
     "react": "^16.9.0",
     "react-dom": "^16.9.0",
-    "react-scripts": "3.1.0"
+    "react-scripts": "3.1.0",
+    "three": "^0.107.0",
+    "three-gltf-loader": "^1.107.0"
   },
   "scripts": {
     "start": "react-scripts start",

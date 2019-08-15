@@ -11,7 +11,7 @@ function App() {
         <p>Seahorse</p>
       </header>
       <section>
-        <model-viewer alt="A 3D model of an seahorse." src={seahorse} ar ></model-viewer>
+        <model-viewer alt="A 3D model of an seahorse." src='./assets/b1.gltf' ar ></model-viewer>
       </section>
     </div>
   );

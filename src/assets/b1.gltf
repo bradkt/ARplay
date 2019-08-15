@@ -77,13 +77,13 @@
   ],
   "images": [
     {
-      "uri": "./b1_img0.png"
+      "uri": "./assets/b1_img0.png"
     },
     {
-      "uri": "./b1_img1.png"
+      "uri": "./assets/b1_img1.png"
     },
     {
-      "uri": "./b1_img2.png"
+      "uri": "./assets/b1_img2.png"
     }
   ],
   "materials": [

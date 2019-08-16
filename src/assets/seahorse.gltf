@@ -183,14 +183,14 @@
     {
       "byteLength": 79968,
       "name": "buffer-0",
-      "uri": "./assets/seahorse.bin"
+      "uri": "https://firebasestorage.googleapis.com/v0/b/constructive-32f46.appspot.com/o/seahorse%2Fseahorse.bin?alt=media&token=4cd5769a-0389-4051-b2f6-a92b29b94355"
     }
   ],
   "images": [
     {
       "mimeType": "image/png",
       "name": "lambert2SG-image",
-      "uri": "./assets/seahorseTxt.png"
+      "uri": "https://firebasestorage.googleapis.com/v0/b/constructive-32f46.appspot.com/o/seahorse%2FseahorseTxt.png?alt=media&token=4be21bbd-adf6-4cd2-b2c8-f15e48f546aa"
     }
   ],
   "materials": [

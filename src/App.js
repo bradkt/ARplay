@@ -5,11 +5,6 @@ import * as seahorse from './assets/seahorse.gltf';
 
 class App extends React.Component {
 
-  componentDidMount() {
-
-    
-  }
-
   render() {
     return (
       <div className="App">
@@ -17,7 +12,7 @@ class App extends React.Component {
           <p>Sea Horse</p>
         </header>
         <section>
-          <model-viewer alt="A 3D model of an seahorse." src={seahorse} ar ></model-viewer>
+          <model-viewer alt="A 3D model of an seahorse." src={seahorse} ar camera-controls></model-viewer>
         </section>
       </div>
     );

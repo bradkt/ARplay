@@ -183,14 +183,14 @@
     {
       "byteLength": 79968,
       "name": "buffer-0",
-      "uri": "/assets/seahorse.bin"
+      "uri": "seahorse.bin"
     }
   ],
   "images": [
     {
       "mimeType": "image/png",
       "name": "lambert2SG-image",
-      "uri": "/assets/seahorseTxt.png"
+      "uri": "seahorseTxt.png"
     }
   ],
   "materials": [

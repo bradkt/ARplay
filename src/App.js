@@ -8,11 +8,13 @@ class App extends React.Component {
   render() {
     return (
       <div className="App">
-        <header className="App-header">      
-          <p>Sea Horse</p>
-        </header>
         <section>
-          <model-viewer alt="A 3D model of an seahorse." src={seahorse} ar camera-controls></model-viewer>
+          <model-viewer alt="A 3D model of an seahorse." 
+          src={seahorse} 
+          ar 
+          auto-rotate
+          camera-controls>
+          </model-viewer>
         </section>
       </div>
     );
